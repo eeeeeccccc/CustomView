@@ -10,7 +10,7 @@
     tools:context=".MainActivity">
 
     <com.dedpp.square.SquareLayout
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:background="#00ff00"
